@@ -1,13 +1,17 @@
 # SWdeCasteljau
 
-FIXME: write description
+School project visualizing de Casteljau algorithm for splaines
 
 ## Usage
 
-FIXME: write
+Use your mouse: left moves points, right deletes/adds them.
+
+## TBD
+
+Translatate to English ;)
 
 ## License
 
-Copyright (C) 2011 FIXME
+Copyright (C) 2011 Szymon Witamborski
 
-Distributed under the Eclipse Public License, the same as Clojure.
+MIT Licence
